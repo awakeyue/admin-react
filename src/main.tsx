@@ -1,7 +1,7 @@
 // import React from 'react'
 import ReactDOM from 'react-dom/client'
 import App from '@/App.tsx'
-import './index.css'
+import '@/style/index.css'
 import worker from './mock'
 
 if (import.meta.env.DEV) {
